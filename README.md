@@ -1,6 +1,6 @@
 **COVID-19 Model**
 
-This is an SIR model with a time-dependent, exponentially-decaying reproduction number.
+This is an SIR model with a time-dependent, exponentially-decaying reproduction number fitted to US cases.
 
 ![SIR Model](sirmodel.png)
 
