@@ -15,3 +15,9 @@ The x-axis represents current day of the year. For reference April 25 is the 116
 ![US Projection](usprojection.png)
 
 Assuming these conditions, peak cases will occur around May 15 with an approximated ~115K deaths by then.
+
+<script type="text/javascript" src="https://latex.codecogs.com/latexit.js"></script>
+<script type="text/javascript">
+LatexIT.add('p',true);
+</script>LatexIT.add('p',true);
+<p>$t^2$</p>
