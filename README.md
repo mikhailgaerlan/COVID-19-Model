@@ -19,4 +19,4 @@ Assuming these conditions, peak cases will occur around May 15 with an approxima
 
 ![Equation](https://latex.codecogs.com/gif.latex?\min_x\frac{1}{2}\left|\left|Ax-b\right|\right|_2^2&plus;\tau\left|\left|x\right|\right|_1)
 
-![Equation](https://latex.codecogs.com/gif.latex?\begin{align*}\frac{dS}{dt}&=asdf\\\frac{dI}{dt}&=dfdf\end{align*})
+![Equation](https://latex.codecogs.com/gif.latex?\begin{align&ast;}\frac{dS}{dt}&=asdf\\\frac{dI}{dt}&=dfdf\end{align&ast;})
